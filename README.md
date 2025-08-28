@@ -93,12 +93,19 @@
 
 ---
 
+# 📞 Contact
+
 <p align="center">
-  <b><span style="color:#d4c295;">👑 Owner:</span></b> <a href="https://t.me/viaownercyberlinuxid" style="color:#d4c295;">t.me/viaownercyberlinuxid</a>  
-  <br/>
-  <b><span style="color:#d4c295;">💬 Grup:</span></b> <a href="https://t.me/CyberLinuxID" style="color:#d4c295;">t.me/CyberLinuxID</a>  
-  <br/>
-  <b><span style="color:#d4c295;">🌐 GitHub:</span></b> <a href="https://github.com/CyberLinux1d" style="color:#d4c295;">github.com/CyberLinux1d</a>  
-  <br/>
-  <b><span style="color:#d4c295;">🔗 Link Lengkap:</span></b> <a href="https://9o1kc.mssg.me/" style="color:#d4c295;">9o1kc.mssg.me</a>
+  <a href="https://t.me/viaownercyberlinuxid">
+    <img src="https://img.shields.io/badge/Owner-@viaownercyberlinuxid-black?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/CyberLinuxID">
+    <img src="https://img.shields.io/badge/Grup-CyberLinuxID-black?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/CyberLinux1d">
+    <img src="https://img.shields.io/badge/GitHub-CyberLinux1d-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://9o1kc.mssg.me/">
+    <img src="https://img.shields.io/badge/Link-Lengkap-black?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
 </p>
