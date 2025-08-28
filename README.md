@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary>Shodan</summary>
+<summary>🔎 Servers</summary>
 
 👉 [shodan.io](https://shodan.io)  
 🌟 Mesin pencari server & perangkat yang terhubung ke internet.  
@@ -20,7 +20,7 @@
 </details>
 
 <details>
-<summary>Censys</summary>
+<summary>🔎 Servers</summary>
 
 👉 [censys.io](https://censys.io)  
 🌟 Mesin pencari server & layanan publik global.  
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>Hunter</summary>
+<summary>📧 Email</summary>
 
 👉 [hunter.io](https://hunter.io)  
 🌟 Pencarian email berdasarkan domain tertentu.  
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary>Urlscan</summary>
+<summary>🌐 Websites</summary>
 
 👉 [urlscan.io](https://urlscan.io)  
 🌟 Analisis website & traffic.  
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary>Grep App</summary>
+<summary>💻 Source Code</summary>
 
 👉 [grep.app](https://grep.app)  
 🌟 Mesin pencari source code.  
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary>IntelX</summary>
+<summary>🕵️ OSINT</summary>
 
 👉 [intelx.io](https://intelx.io)  
 🌟 Platform OSINT untuk data publik & bocoran.  
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary>Wigle</summary>
+<summary>📡 WiFi</summary>
 
 👉 [wigle.net](https://wigle.net)  
 🌟 Database peta jaringan WiFi global.  
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary>FullHunt</summary>
+<summary>🛡 Attack Surface</summary>
 
 👉 [fullhunt.io](https://fullhunt.io)  
 🌟 Platform attack surface monitoring.  
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-<summary>Vulners</summary>
+<summary>⚡ Vulnerabilities</summary>
 
 👉 [vulners.com](https://vulners.com)  
 🌟 Database kerentanan & exploit.  
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-<summary>GreyNoise</summary>
+<summary>🔥 Threat Intel</summary>
 
 👉 [viz.greynoise.io](https://viz.greynoise.io)  
 🌟 Threat intelligence traffic internet.  
