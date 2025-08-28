@@ -14,7 +14,7 @@
 <details>
 <summary>Shodan</summary>
 
-👉 [shodan.io](hxxps://shodan[dot]io)  
+👉 [shodan.io](https://shodan.io)  
 🌟 Mesin pencari server & perangkat yang terhubung ke internet.  
 📌 Fungsi: Digunakan dalam penelitian keamanan IoT.
 </details>
@@ -22,7 +22,7 @@
 <details>
 <summary>Censys</summary>
 
-👉 [censys.io](hxxps://censys[dot]io)  
+👉 [censys.io](https://censys.io)  
 🌟 Mesin pencari server & layanan publik global.  
 📌 Fungsi: Analisis keamanan sertifikat & host.
 </details>
@@ -30,7 +30,7 @@
 <details>
 <summary>Hunter</summary>
 
-👉 [hunter.io](hxxps://hunter[dot]io)  
+👉 [hunter.io](https://hunter.io)  
 🌟 Pencarian email berdasarkan domain tertentu.  
 📌 Fungsi: Digunakan untuk OSINT & investigasi email.
 </details>
@@ -38,7 +38,7 @@
 <details>
 <summary>Urlscan</summary>
 
-👉 [urlscan.io](hxxps://urlscan[dot]io)  
+👉 [urlscan.io](https://urlscan.io)  
 🌟 Analisis website & traffic.  
 📌 Fungsi: Menyelidiki aktivitas mencurigakan pada situs.
 </details>
@@ -46,7 +46,7 @@
 <details>
 <summary>Grep App</summary>
 
-👉 [grep.app](hxxps://grep[dot]app)  
+👉 [grep.app](https://grep.app)  
 🌟 Mesin pencari source code.  
 📌 Fungsi: Membantu penelitian kode publik.
 </details>
@@ -54,7 +54,7 @@
 <details>
 <summary>IntelX</summary>
 
-👉 [intelx.io](hxxps://intelx[dot]io)  
+👉 [intelx.io](https://intelx.io)  
 🌟 Platform OSINT untuk data publik & bocoran.  
 📌 Fungsi: Digunakan dalam penelitian keamanan data.
 </details>
@@ -62,7 +62,7 @@
 <details>
 <summary>Wigle</summary>
 
-👉 [wigle.net](hxxps://wigle[dot]net)  
+👉 [wigle.net](https://wigle.net)  
 🌟 Database peta jaringan WiFi global.  
 📌 Fungsi: Penelitian keamanan jaringan nirkabel.
 </details>
@@ -70,7 +70,7 @@
 <details>
 <summary>FullHunt</summary>
 
-👉 [fullhunt.io](hxxps://fullhunt[dot]io)  
+👉 [fullhunt.io](https://fullhunt.io)  
 🌟 Platform attack surface monitoring.  
 📌 Fungsi: Identifikasi aset digital yang terekspos.
 </details>
@@ -78,7 +78,7 @@
 <details>
 <summary>Vulners</summary>
 
-👉 [vulners.com](hxxps://vulners[dot]com)  
+👉 [vulners.com](https://vulners.com)  
 🌟 Database kerentanan & exploit.  
 📌 Fungsi: Penelitian keamanan terhadap CVE terbaru.
 </details>
@@ -86,7 +86,7 @@
 <details>
 <summary>GreyNoise</summary>
 
-👉 [viz.greynoise.io](hxxps://viz.greynoise[dot]io)  
+👉 [viz.greynoise.io](https://viz.greynoise.io)  
 🌟 Threat intelligence traffic internet.  
 📌 Fungsi: Memfilter “noise” dari pemindaian internet.
 </details>
