@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://h.top4top.io/p_35276v4ci1.png" alt="Hacker Search Engines Banner" width="600"/>
+  <img src="https://j.top4top.io/p_3528jmrhm0.jpg" alt="Hacker Search Engines Banner" width="600"/>
 </p>
 
 ---
