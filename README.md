@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/star.svg" width="20" style="color:black"/>  
-  Jika kalian suka, jangan lupa klik <b>star</b> di GitHub kami!  
+  Jika kalian suka, jangan lupa klik <b>bintang</b> di GitHub kami!  
   <a href="https://github.com/CyberLinux1d">👉 GitHub Repo</a>
 </p>
 
