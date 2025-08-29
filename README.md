@@ -5,18 +5,18 @@
 
 ---
 
-### 🔎 Cybersecurity Search Engines
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/magnifying-glass.svg" width="20" style="color:black"/> Cybersecurity Search Engines
 
-> ⚠️ **Disclaimer:** Tools berikut hanya untuk **pembelajaran dan penelitian keamanan siber**. Jangan gunakan untuk aktivitas ilegal.
+> <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/exclamation-triangle.svg" width="20" style="color:black"/> **Disclaimer:** Tools berikut hanya untuk **pembelajaran dan penelitian keamanan siber**. Jangan gunakan untuk aktivitas ilegal.
 
 ---
 
-#### tools di bawah ını 👇 
+#### tools di bawah ini <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/hand-point-down.svg" width="20" style="color:black"/>
 
 ---
 
 <details>
-<summary>🔎 Servers</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/server.svg" width="20" style="color:black"/> Servers</summary>
 
 👉 [shodan.io](https://shodan.io)  
 🌟 Mesin pencari server & perangkat yang terhubung ke internet.  
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>🔎 Servers</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/server.svg" width="20" style="color:black"/> Servers</summary>
 
 👉 [censys.io](https://censys.io)  
 🌟 Mesin pencari server & layanan publik global.  
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>📧 Email</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg" width="20" style="color:black"/> Email</summary>
 
 👉 [hunter.io](https://hunter.io)  
 🌟 Pencarian email berdasarkan domain tertentu.  
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary>🌐 Websites</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" width="20" style="color:black"/> Websites</summary>
 
 👉 [urlscan.io](https://urlscan.io)  
 🌟 Analisis website & traffic.  
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary>💻 Source Code</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/code.svg" width="20" style="color:black"/> Source Code</summary>
 
 👉 [grep.app](https://grep.app)  
 🌟 Mesin pencari source code.  
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary>🕵️ OSINT</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/user-secret.svg" width="20" style="color:black"/> OSINT</summary>
 
 👉 [intelx.io](https://intelx.io)  
 🌟 Platform OSINT untuk data publik & bocoran.  
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary>📡 WiFi</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/wifi.svg" width="20" style="color:black"/> WiFi</summary>
 
 👉 [wigle.net](https://wigle.net)  
 🌟 Database peta jaringan WiFi global.  
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary>🛡 Attack Surface</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/shield-halved.svg" width="20" style="color:black"/> Attack Surface</summary>
 
 👉 [fullhunt.io](https://fullhunt.io)  
 🌟 Platform attack surface monitoring.  
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>⚡ Vulnerabilities</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/bolt.svg" width="20" style="color:black"/> Vulnerabilities</summary>
 
 👉 [vulners.com](https://vulners.com)  
 🌟 Database kerentanan & exploit.  
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-<summary>🔥 Threat Intel</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/fire.svg" width="20" style="color:black"/> Threat Intel</summary>
 
 👉 [viz.greynoise.io](https://viz.greynoise.io)  
 🌟 Threat intelligence traffic internet.  
@@ -97,7 +97,7 @@
 
 ---
 
-#### 📞 Contact
+#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20" style="color:black"/> Contact
 
 <p align="center">
   <a href="https://t.me/viaownercyberlinuxid">
