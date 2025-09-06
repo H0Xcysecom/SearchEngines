@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://j.top4top.io/p_3528jmrhm0.jpg" alt="Hacker Search Engines Banner" width="600"/>
-</p>
-
----
 
 ### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/magnifying-glass.svg" width="20" style="color:black"/> Cybersecurity Search Engines
 
