@@ -97,3 +97,13 @@
 
 ---
 
+# my contact
+<p align="center">
+  <a href="https://t.me/ownFrostWolff">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@latest_news_team.markasv?_t=ZS-8zmyWM7yZBB&_r=1">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
